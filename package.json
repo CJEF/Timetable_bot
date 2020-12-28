@@ -1,0 +1,28 @@
+{
+  "name": "timetablebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CJEF/Timetable_bot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "helper",
+    "shedule",
+    "timetable",
+    "of",
+    "classes"
+  ],
+  "author": "CJEF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CJEF/Timetable_bot/issues"
+  },
+  "homepage": "https://github.com/CJEF/Timetable_bot#readme"
+}
